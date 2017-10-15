@@ -12,4 +12,5 @@ Se presentaron dos propuestas para el juego:
 
 Dichas propuestas para la idea principal del juego se votaron el 9 de Octubre de 2017 quedando seleccionada Space Survival
 
-
+## Wiki
+Más información acerca de el proyecto en la [Wiki](https://github.com/godot-castellano/space-survival/wiki)
